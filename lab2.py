@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from PIL import Image
 import numpy as np
 from scipy.ndimage import label
@@ -42,3 +43,6 @@ def process_image_by_area(filename="Victorialab2.bmp", connectivity=4, n=5):
 process_image_by_area()
 
 input("Натисніть Enter, щоб завершити програму...")# This is a bug fix
+=======
+This is a change in feature-branch-1
+>>>>>>> feature-branch-1
