@@ -41,4 +41,4 @@ def process_image_by_area(filename="Victorialab2.bmp", connectivity=4, n=5):
 # Викликаємо функцію з початковим зображенням "Victorialab2.bmp"
 process_image_by_area()
 
-input("Натисніть Enter, щоб завершити програму...")
+input("Натисніть Enter, щоб завершити програму...")# This is a bug fix
